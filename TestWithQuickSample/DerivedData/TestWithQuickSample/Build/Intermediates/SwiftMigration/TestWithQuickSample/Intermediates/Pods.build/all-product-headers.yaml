@@ -1,0 +1,158 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/DerivedData/TestWithQuickSample/Build/Intermediates/SwiftMigration/TestWithQuickSample/Products/Debug-iphoneos/Nimble/Nimble.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CwlCatchException.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Nimble/Sources/Lib/CwlPreconditionTesting/CwlCatchExceptionSupport/include/CwlCatchException.h"
+        },
+        {
+          'type': 'file',
+          'name': "CwlMachBadInstructionHandler.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Nimble/Sources/Lib/CwlPreconditionTesting/CwlMachBadInstructionHandler/include/CwlMachBadInstructionHandler.h"
+        },
+        {
+          'type': 'file',
+          'name': "CwlPreconditionTesting.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Nimble/Sources/Lib/CwlPreconditionTesting/CwlPreconditionTesting/Mach/CwlPreconditionTesting.h"
+        },
+        {
+          'type': 'file',
+          'name': "DSL.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Nimble/Sources/NimbleObjectiveC/DSL.h"
+        },
+        {
+          'type': 'file',
+          'name': "NMBExceptionCapture.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Nimble/Sources/NimbleObjectiveC/NMBExceptionCapture.h"
+        },
+        {
+          'type': 'file',
+          'name': "NMBStringify.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Nimble/Sources/NimbleObjectiveC/NMBStringify.h"
+        },
+        {
+          'type': 'file',
+          'name': "Nimble-Swift.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/DerivedData/TestWithQuickSample/Build/Intermediates/SwiftMigration/TestWithQuickSample/Products/Debug-iphoneos/Nimble/Nimble.framework/Headers/Nimble-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Nimble-umbrella.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Target Support Files/Nimble/Nimble-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Nimble.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Nimble/Sources/Nimble/Nimble.h"
+        },
+        {
+          'type': 'file',
+          'name': "mach_excServer.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Nimble/Sources/Lib/CwlPreconditionTesting/CwlMachBadInstructionHandler/mach_excServer.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/DerivedData/TestWithQuickSample/Build/Intermediates/SwiftMigration/TestWithQuickSample/Products/Debug-iphoneos/Nimble/Nimble.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/DerivedData/TestWithQuickSample/Build/Intermediates/SwiftMigration/TestWithQuickSample/Intermediates/Pods.build/Debug-iphoneos/Nimble.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/DerivedData/TestWithQuickSample/Build/Intermediates/SwiftMigration/TestWithQuickSample/Products/Debug-iphoneos/Nimble/Nimble.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CurrentTestCaseTracker.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Nimble/Sources/NimbleObjectiveC/CurrentTestCaseTracker.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/DerivedData/TestWithQuickSample/Build/Intermediates/SwiftMigration/TestWithQuickSample/Products/Debug-iphoneos/Pods_TestWithQuickSampleTests.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-TestWithQuickSampleTests-umbrella.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Target Support Files/Pods-TestWithQuickSampleTests/Pods-TestWithQuickSampleTests-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_TestWithQuickSampleTests-Swift.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/DerivedData/TestWithQuickSample/Build/Intermediates/SwiftMigration/TestWithQuickSample/Products/Debug-iphoneos/Pods_TestWithQuickSampleTests.framework/Headers/Pods_TestWithQuickSampleTests-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/DerivedData/TestWithQuickSample/Build/Intermediates/SwiftMigration/TestWithQuickSample/Products/Debug-iphoneos/Pods_TestWithQuickSampleTests.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/DerivedData/TestWithQuickSample/Build/Intermediates/SwiftMigration/TestWithQuickSample/Intermediates/Pods.build/Debug-iphoneos/Pods-TestWithQuickSampleTests.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/DerivedData/TestWithQuickSample/Build/Intermediates/SwiftMigration/TestWithQuickSample/Products/Debug-iphoneos/Quick/Quick.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "QCKDSL.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/QuickObjectiveC/DSL/QCKDSL.h"
+        },
+        {
+          'type': 'file',
+          'name': "Quick-Swift.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/DerivedData/TestWithQuickSample/Build/Intermediates/SwiftMigration/TestWithQuickSample/Products/Debug-iphoneos/Quick/Quick.framework/Headers/Quick-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Quick-umbrella.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Target Support Files/Quick/Quick-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Quick.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/QuickObjectiveC/Quick.h"
+        },
+        {
+          'type': 'file',
+          'name': "QuickConfiguration.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/QuickObjectiveC/Configuration/QuickConfiguration.h"
+        },
+        {
+          'type': 'file',
+          'name': "QuickSpec.h",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/QuickObjectiveC/QuickSpec.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/DerivedData/TestWithQuickSample/Build/Intermediates/SwiftMigration/TestWithQuickSample/Products/Debug-iphoneos/Quick/Quick.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/DerivedData/TestWithQuickSample/Build/Intermediates/SwiftMigration/TestWithQuickSample/Intermediates/Pods.build/Debug-iphoneos/Quick.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

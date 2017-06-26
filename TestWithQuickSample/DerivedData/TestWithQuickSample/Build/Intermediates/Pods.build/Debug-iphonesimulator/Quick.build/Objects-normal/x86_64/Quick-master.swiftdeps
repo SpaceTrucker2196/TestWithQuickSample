@@ -1,0 +1,23 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "89cf9e14115aa20f8e8ab2d3c4306905"
+build_time: [551827077, 534605000]
+inputs:
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/Callsite.swift": [551826820, 0]
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/Hooks/Closures.swift": [551826820, 0]
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/Configuration/Configuration.swift": [551826820, 0]
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/DSL/DSL.swift": !dirty [551826820, 0]
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/ErrorUtility.swift": [551826820, 0]
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/Example.swift": [551827019, 0]
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/ExampleGroup.swift": [551827019, 0]
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/Hooks/ExampleHooks.swift": [551826820, 0]
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/ExampleMetadata.swift": [551826820, 0]
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/Filter.swift": [551826820, 0]
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/Hooks/HooksPhase.swift": [551826820, 0]
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/NSBundle+CurrentTestBundle.swift": [551826820, 0]
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/NSString+C99ExtendedIdentifier.swift": [551827019, 0]
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/QuickSelectedTestSuiteBuilder.swift": [551826820, 0]
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/QuickTestSuite.swift": [551827019, 0]
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/Hooks/SuiteHooks.swift": [551826820, 0]
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/URL+FileName.swift": [551826820, 0]
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/DSL/World+DSL.swift": [551827019, 0]
+  "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/World.swift": [551827019, 0]

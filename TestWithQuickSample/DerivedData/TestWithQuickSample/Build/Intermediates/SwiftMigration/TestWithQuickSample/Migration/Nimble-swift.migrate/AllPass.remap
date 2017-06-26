@@ -1,0 +1,8 @@
+[
+ {
+  "file": "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Nimble/Sources/Nimble/Matchers/AllPass.swift",
+  "offset": 3265,
+  "remove": 3,
+  "text": "let",
+ }
+]

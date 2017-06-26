@@ -1,0 +1,8 @@
+[
+ {
+  "file": "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Nimble/Sources/Nimble/Matchers/ContainElementSatisfying.swift",
+  "offset": 1600,
+  "remove": 3,
+  "text": "let",
+ }
+]

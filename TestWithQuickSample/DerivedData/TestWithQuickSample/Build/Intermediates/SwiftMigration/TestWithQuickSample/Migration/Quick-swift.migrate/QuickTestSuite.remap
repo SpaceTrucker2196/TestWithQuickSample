@@ -1,0 +1,19 @@
+[
+ {
+  "file": "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/QuickTestSuite.swift",
+  "offset": 554,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/QuickTestSuite.swift",
+  "offset": 602,
+  "text": "file",
+ },
+ {
+  "file": "/Users/jeff/workspace/TestWithQuickSample/TestWithQuickSample/Pods/Quick/Sources/Quick/QuickTestSuite.swift",
+  "offset": 1067,
+  "remove": 6,
+  "text": "open",
+ }
+]
